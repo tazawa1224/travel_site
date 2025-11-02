@@ -8,7 +8,7 @@ $(function() {
         // 画面の高さを取得
         const windowHeight = $(window).height();
         
-        const haya=$("#haya")
+        const haya=$(".haya")
         // それぞれのフェードインしたい対象までの高さを取得
         const boxHeight = haya.offset().top;
 

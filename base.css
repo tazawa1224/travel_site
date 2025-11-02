@@ -240,7 +240,7 @@ html,body {
 
 
 /*以下 旅の提案 */
-#haya{
+.haya{
 	width: 100%;
 	padding: 0vw 7.5vw 0vw 8vw;
 	/*左右空白合わせ +0.5% */
@@ -519,7 +519,7 @@ html,body {
 		display:none;
 	}
 	/*▲▲以下要確認▲▲*/
-	#haya{
+	.haya{
 		width: 100%;
 		padding: 0vw 7.5vw 0vw 8vw;
 	}
@@ -531,7 +531,7 @@ html,body {
 		margin: 1vw 8vw 0vw 8vw;
 		padding-left:3vw;
 	}
-	.topick div{
+	 .topick div{
 		font-size: 0.8vw;
 		height: 52px;
 		width: auto;
